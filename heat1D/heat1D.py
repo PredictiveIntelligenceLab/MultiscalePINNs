@@ -132,7 +132,7 @@ if __name__ == '__main__':
     loss_res = model.loss_res_log
     l2_error = model.l2_error_log
     
-    fig_3 = plt.figure(3, figsize=(6, 5))
+    fig_2 = plt.figure(2, figsize=(6, 5))
     with sns.axes_style("darkgrid"):
         iters = 100 * np.arange(len(loss_res))
             
