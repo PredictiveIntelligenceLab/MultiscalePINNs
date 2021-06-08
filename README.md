@@ -9,9 +9,12 @@ In this work we investigate this limitation through the lens of Neural Tangent K
 
 ## Citation
 
-    @article{wang2020eigenvector,
-      title={On the eigenvector bias of Fourier feature networks: From regression to solving multi-scale PDEs with physics-informed neural networks},
+    @article{wang2021eigenvector,
+      title={On the eigenvector bias of fourier feature networks: From regression to solving multi-scale pdes with physics-informed neural networks},
       author={Wang, Sifan and Wang, Hanwen and Perdikaris, Paris},
-      journal={arXiv preprint arXiv:2012.10047},
-      year={2020}
+      journal={Computer Methods in Applied Mechanics and Engineering},
+      volume={384},
+      pages={113938},
+      year={2021},
+      publisher={Elsevier}
     }
