@@ -17,4 +17,4 @@ In this work we investigate this limitation through the lens of Neural Tangent K
       pages={113938},
       year={2021},
       publisher={Elsevier}
-    }
+      }
