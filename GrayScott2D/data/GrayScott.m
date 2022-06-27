@@ -52,4 +52,3 @@ for i = 1:steps+1
 end
 
 % save('sol.mat', 'b', 'd', 'ep1', 'ep2', 'tspan', 'usol', 'vsol', 'X', 'Y')
-
